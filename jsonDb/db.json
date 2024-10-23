@@ -1,0 +1,1093 @@
+{
+    "GetStore": [
+        {
+            "id": "2fb94361-8e4b-49af-8f71-b2d7ca250fe5",
+            "name": "Walmart 3",
+            "address": "Gainesville, Florida 32653",
+            "isPrimary": true
+        },
+        {
+            "id": "3405bfea-a7e9-48ae-b6e3-f6154fa9caa4",
+            "name": "Walmart 2",
+            "address": "Gainesville, Florida 32641",
+            "isPrimary": false
+        },
+        {
+            "id": "8f4efeaa-f77b-425a-9c0b-6ad28f2ebc64",
+            "name": "Walmart 1",
+            "address": "Gainesville, Florida 32653",
+            "isPrimary": false
+        }
+    ],
+    "CompanyLogo": {
+        "companyId": "88a5723c-689b-4484-a6a7-7ce12a63d6d7",
+        "fileName": "https://i.pinimg.com/236x/75/c7/f8/75c7f8b60abee5506aea95036351488d.jpg"
+    },
+    "Category": [
+        {
+            "id": "",
+            "name": "All"
+        },
+        {
+            "id": "dae63aff-0df4-4a20-88d3-9191851e4d45",
+            "name": "Canned"
+        },
+        {
+            "id": "7ebf493a-4dd4-4705-821e-05886a2732cb",
+            "name": "Groceries"
+        },
+        {
+            "id": "7a39cfae-1787-42e8-bb77-8069fc7ddc12",
+            "name": "Laptop"
+        },
+        {
+            "id": "d5703cde-0e07-42c4-b1c6-427c49414e85",
+            "name": "Milk"
+        }
+    ],
+    "HomePage": [
+        {
+            "categoryId": "dae63aff-0df4-4a20-88d3-9191851e4d45",
+            "category": "Canned",
+            "id": "653a0e5a-aa26-4fab-b101-59d4ab67d27a",
+            "itemId": "653a0e5a-aa26-4fab-b101-59d4ab67d27a",
+            "name": "Canned Black Beans",
+            "fileName": "https://i.pinimg.com/564x/e0/6f/ce/e06fce6a16bddc3f4d6401a0d685f425.jpg",
+            "unitPrice": 0.08333333333333333,
+            "price": 1.25,
+            "unit": "15 Oz"
+        },
+        {
+            "categoryId": "dae63aff-0df4-4a20-88d3-9191851e4d45",
+            "category": "Canned",
+            "id": "b581ce05-d4a4-460b-903a-a8f69db42b62",
+            "itemId": "b581ce05-d4a4-460b-903a-a8f69db42b62",
+            "name": "Canned Sweet Corn",
+            "fileName": "https://i.pinimg.com/564x/e0/6f/ce/e06fce6a16bddc3f4d6401a0d685f425.jpg",
+            "unitPrice": 1.5,
+            "price": 1.5,
+            "unit": "1 Oz"
+        },
+        {
+            "categoryId": "dae63aff-0df4-4a20-88d3-9191851e4d45",
+            "category": "Canned",
+            "id": "132014c6-eeff-448f-a03f-f1567f99e555",
+            "itemId": "132014c6-eeff-448f-a03f-f1567f99e555",
+            "name": "Canned Diced Tomatoes",
+            "fileName": "https://i.pinimg.com/236x/3a/6b/b6/3a6bb6f1cb7608eaaf2437c339ecf49e.jpg",
+            "unitPrice": 1.75,
+            "price": 1.75,
+            "unit": "1 Oz"
+        },
+        {
+            "categoryId": "dae63aff-0df4-4a20-88d3-9191851e4d45",
+            "category": "Canned",
+            "id": "67992330-689e-4c3c-9a8f-463542e0323c",
+            "itemId": "67992330-689e-4c3c-9a8f-463542e0323c",
+            "name": "Canned Tuna in Water",
+            "fileName": "https://i.pinimg.com/236x/1e/ef/92/1eef92b390454b8d2e686ec05f22d686.jpg",
+            "unitPrice": 2.25,
+            "price": 2.25,
+            "unit": "1 Oz"
+        },
+        {
+            "categoryId": "dae63aff-0df4-4a20-88d3-9191851e4d45",
+            "category": "Canned",
+            "id": "5ff53769-a46a-4a1e-bca8-bf17b33ccc3e",
+            "itemId": "5ff53769-a46a-4a1e-bca8-bf17b33ccc3e",
+            "name": "Canned Green Peas",
+            "fileName": "https://i.pinimg.com/236x/0e/f3/fc/0ef3fc79480510cc8a14298833c418aa.jpg",
+            "unitPrice": 0.08666666666666667,
+            "price": 1.3,
+            "unit": "15 Oz"
+        },
+        {
+            "categoryId": "dae63aff-0df4-4a20-88d3-9191851e4d45",
+            "category": "Canned",
+            "id": "63e289c1-c880-401f-ad64-6f81f2e5625b",
+            "itemId": "63e289c1-c880-401f-ad64-6f81f2e5625b",
+            "name": "Canned Chickpeas",
+            "fileName": "https://i.pinimg.com/236x/a3/c6/fe/a3c6fe69c6c0d1b5e34bc8f03f0774d6.jpg",
+            "unitPrice": 0.08709677419354839,
+            "price": 1.35,
+            "unit": "15.5 Oz"
+        },
+        {
+            "categoryId": "dae63aff-0df4-4a20-88d3-9191851e4d45",
+            "category": "Canned",
+            "id": "91df4468-d6b4-464d-ab45-b14c27c47dee",
+            "itemId": "91df4468-d6b4-464d-ab45-b14c27c47dee",
+            "name": "Canned Pineapple Slices",
+            "fileName": "https://i.pinimg.com/236x/4b/b5/89/4bb589e82c7658a4218882cbef262734.jpg",
+            "unitPrice": 0.14,
+            "price": 2.1,
+            "unit": "15 Oz"
+        },
+        {
+            "categoryId": "dae63aff-0df4-4a20-88d3-9191851e4d45",
+            "category": "Canned",
+            "id": "06e15081-f8b2-4dba-9ff1-36fe7c83c8a7",
+            "itemId": "06e15081-f8b2-4dba-9ff1-36fe7c83c8a7",
+            "name": "Canned Mixed Vegetables",
+            "fileName": "https://i.pinimg.com/236x/24/8a/5e/248a5eaebe4c174e6cb7c8234f0b9590.jpg",
+            "unitPrice": 0.13333333333333333,
+            "price": 1.6,
+            "unit": "12 Oz"
+        },
+        {
+            "categoryId": "dae63aff-0df4-4a20-88d3-9191851e4d45",
+            "category": "Canned",
+            "id": "37dfbecb-180a-43ac-97d0-9f4179eb73a3",
+            "itemId": "37dfbecb-180a-43ac-97d0-9f4179eb73a3",
+            "name": "Canned Spaghetti Sauce",
+            "fileName": "https://i.pinimg.com/236x/a4/7d/e0/a47de092bee4ece43774e3c139ff4f33.jpg",
+            "unitPrice": 0.04671875,
+            "price": 2.99,
+            "unit": "64 Oz"
+        },
+        {
+            "categoryId": "dae63aff-0df4-4a20-88d3-9191851e4d45",
+            "category": "Canned",
+            "id": "c1fc8f84-673e-4947-a350-98246f19ae8a",
+            "itemId": "c1fc8f84-673e-4947-a350-98246f19ae8a",
+            "name": "Canned Chicken Noodle Soup",
+            "fileName": "https://i.pinimg.com/236x/02/22/32/022232e664c6276d1f1577d0d4293820.jpg",
+            "unitPrice": 0.16666666666666666,
+            "price": 1.75,
+            "unit": "10.5 Oz"
+        },
+        {
+            "categoryId": "7ebf493a-4dd4-4705-821e-05886a2732cb",
+            "category": "Groceries",
+            "id": "8dd82a0d-c4ac-4ea5-8c60-b4d8f28767f9",
+            "itemId": "8dd82a0d-c4ac-4ea5-8c60-b4d8f28767f9",
+            "name": "Fresh Strawberries",
+            "fileName": "https://i.pinimg.com/564x/d5/09/00/d50900e6feec1530247067a00b7b4efd.jpg",
+            "unitPrice": 2.78,
+            "price": 2.78,
+            "unit": "1 Lb Bag"
+        },
+        {
+            "categoryId": "7ebf493a-4dd4-4705-821e-05886a2732cb",
+            "category": "Groceries",
+            "id": "ffd7f38a-675a-436f-a534-047c5ead7c2d",
+            "itemId": "ffd7f38a-675a-436f-a534-047c5ead7c2d",
+            "name": "QBC",
+            "fileName": "https://i.pinimg.com/236x/4e/77/9e/4e779edec9327412369e2a6c6d039d2c.jpg",
+            "unitPrice": 30.4,
+            "price": 30.4,
+            "unit": "1 QBC"
+        },
+        {
+            "categoryId": "7ebf493a-4dd4-4705-821e-05886a2732cb",
+            "category": "Groceries",
+            "id": "60504dea-5f73-4162-856d-cd34f7147a4e",
+            "itemId": "60504dea-5f73-4162-856d-cd34f7147a4e",
+            "name": "Fresh Lemon",
+            "fileName": "https://i.pinimg.com/236x/14/e6/6c/14e66c0e1d52900a1a523b9f79507b8c.jpg",
+            "unitPrice": 0.68,
+            "price": 0.68,
+            "unit": "Each"
+        },
+        {
+            "categoryId": "7ebf493a-4dd4-4705-821e-05886a2732cb",
+            "category": "Groceries",
+            "id": "ab790f85-e793-4e1e-90b0-90371be83beb",
+            "itemId": "ab790f85-e793-4e1e-90b0-90371be83beb",
+            "name": "Fresh Green Bell Pepper",
+            "fileName": "https://i.pinimg.com/236x/ea/c5/55/eac555eb960e913ed4f7a137caa72983.jpg",
+            "unitPrice": 0.86,
+            "price": 0.86,
+            "unit": "Each"
+        },
+        {
+            "categoryId": "7ebf493a-4dd4-4705-821e-05886a2732cb",
+            "category": "Groceries",
+            "id": "d4889896-4089-4f20-a4f5-9d34ac7682a6",
+            "itemId": "d4889896-4089-4f20-a4f5-9d34ac7682a6",
+            "name": "Fresh Envy Apples",
+            "fileName": "https://i.pinimg.com/236x/18/e9/15/18e915617b7b8d64d2a7a48750da6a27.jpg",
+            "unitPrice": 0.391875,
+            "price": 6.27,
+            "unit": "16 Lb Bag"
+        },
+        {
+            "categoryId": "7ebf493a-4dd4-4705-821e-05886a2732cb",
+            "category": "Groceries",
+            "id": "4877cf7e-731d-4bce-b4d2-56fe8f60cbc8",
+            "itemId": "4877cf7e-731d-4bce-b4d2-56fe8f60cbc8",
+            "name": "Cantaloupe",
+            "fileName": "https://i.pinimg.com/236x/94/32/0f/94320f5a6cfb76cb1979a54084f88ce8.jpg",
+            "unitPrice": 2.88,
+            "price": 2.88,
+            "unit": "Each"
+        },
+        {
+            "categoryId": "7ebf493a-4dd4-4705-821e-05886a2732cb",
+            "category": "Groceries",
+            "id": "19b89052-dd75-4961-962d-94376b4fdb25",
+            "itemId": "19b89052-dd75-4961-962d-94376b4fdb25",
+            "name": "Marketside Caesar Salad Kit",
+            "fileName": "https://i.pinimg.com/236x/89/8e/9e/898e9e0ae63d8700dfdc4e90f0da6991.jpg",
+            "unitPrice": 0.58,
+            "price": 3.48,
+            "unit": "6 Oz Bag"
+        },
+        {
+            "categoryId": "7ebf493a-4dd4-4705-821e-05886a2732cb",
+            "category": "Groceries",
+            "id": "4d7dad23-600c-4bc1-9a77-476681ce58ba",
+            "itemId": "4d7dad23-600c-4bc1-9a77-476681ce58ba",
+            "name": "1lb Baby Peeled Carrots",
+            "fileName": "https://i.pinimg.com/236x/53/4f/45/534f4541178aad156f1a1be0c452d244.jpg",
+            "unitPrice": 1.32,
+            "price": 1.32,
+            "unit": "Each"
+        },
+        {
+            "categoryId": "7ebf493a-4dd4-4705-821e-05886a2732cb",
+            "category": "Groceries",
+            "id": "c4df55d3-4da5-4512-97ba-945dca9c161f",
+            "itemId": "c4df55d3-4da5-4512-97ba-945dca9c161f",
+            "name": "Johnsonville Beddar With Cheddar Smoked Sausage",
+            "fileName": "https://i.pinimg.com/236x/71/9e/5a/719e5a394c02b29af31b2f3d85b9a848.jpg",
+            "unitPrice": 0.66,
+            "price": 3.96,
+            "unit": "6 Oz"
+        },
+        {
+            "categoryId": "7ebf493a-4dd4-4705-821e-05886a2732cb",
+            "category": "Groceries",
+            "id": "b182e074-99cc-4f10-a637-b8a0c68f022a",
+            "itemId": "b182e074-99cc-4f10-a637-b8a0c68f022a",
+            "name": "Freshness Guaranteed Traditional Shredded Rotisserie Chicken Breasts",
+            "fileName": "https://i.pinimg.com/236x/a8/a2/3f/a8a23f61f1830d9ae5937d5cca5924f8.jpg",
+            "unitPrice": 0.623125,
+            "price": 9.97,
+            "unit": "16 Oz"
+        },
+        {
+            "categoryId": "7a39cfae-1787-42e8-bb77-8069fc7ddc12",
+            "category": "Laptop",
+            "id": "efd8bca6-1166-46a3-a3c0-2b4018cd4bdb",
+            "itemId": "7839970a-3dbd-45ed-b5cb-34b030f422fa",
+            "name": "HP Newest 255 G10 Laptop for Home or Work",
+            "fileName": "https://i.pinimg.com/236x/2a/a7/7d/2aa77dd62cd0cf07a0f285fee6be3a3e.jpg",
+            "unitPrice": 449,
+            "price": 449,
+            "unit": "1 Set"
+        },
+        {
+            "categoryId": "d5703cde-0e07-42c4-b1c6-427c49414e85",
+            "category": "Milk",
+            "id": "3641ffae-50d9-4a54-9d9e-fb22442e2416",
+            "itemId": "3641ffae-50d9-4a54-9d9e-fb22442e2416",
+            "name": "Whole Milk",
+            "fileName": "https://i.pinimg.com/236x/3c/82/c1/3c82c13179e4e837743a19b5d42a769b.jpg",
+            "unitPrice": 3.49,
+            "price": 3.49,
+            "unit": "1 Gallon"
+        },
+        {
+            "categoryId": "d5703cde-0e07-42c4-b1c6-427c49414e85",
+            "category": "Milk",
+            "id": "3340fd07-9f02-43e3-8ffd-0116ce68d4df",
+            "itemId": "3340fd07-9f02-43e3-8ffd-0116ce68d4df",
+            "name": "2% Reduced Fat Milk",
+            "fileName": "https://i.pinimg.com/236x/28/62/34/286234ca6a4d504b46875187ed40c003.jpg",
+            "unitPrice": 0.28484848484848485,
+            "price": 3.29,
+            "unit": "11.55 Gallon"
+        },
+        {
+            "categoryId": "d5703cde-0e07-42c4-b1c6-427c49414e85",
+            "category": "Milk",
+            "id": "304156bb-2911-446b-a5c2-63ee11ae401f",
+            "itemId": "304156bb-2911-446b-a5c2-63ee11ae401f",
+            "name": "Skim Milk",
+            "fileName": "https://i.pinimg.com/236x/81/e4/1d/81e41d1382130af235c8eba528e85d2d.jpg",
+            "unitPrice": 0.04671875,
+            "price": 2.99,
+            "unit": "64 Gallon"
+        },
+        {
+            "categoryId": "d5703cde-0e07-42c4-b1c6-427c49414e85",
+            "category": "Milk",
+            "id": "4d56dd54-b34a-43fb-89c9-b95d647b9970",
+            "itemId": "4d56dd54-b34a-43fb-89c9-b95d647b9970",
+            "name": "Organic Whole Milk",
+            "fileName": "https://i.pinimg.com/236x/1f/95/1f/1f951f4ee51c68766770f4471e143d49.jpg",
+            "unitPrice": 4.99,
+            "price": 4.99,
+            "unit": "1 Gallon"
+        },
+        {
+            "categoryId": "d5703cde-0e07-42c4-b1c6-427c49414e85",
+            "category": "Milk",
+            "id": "e31410c9-4926-490f-aaad-16d988ef803a",
+            "itemId": "e31410c9-4926-490f-aaad-16d988ef803a",
+            "name": "Almond Milk",
+            "fileName": "https://i.pinimg.com/236x/78/2d/61/782d61794b4e2e29ce6291153074c50f.jpg",
+            "unitPrice": 0.04671875,
+            "price": 2.99,
+            "unit": "64 Oz"
+        },
+        {
+            "categoryId": "d5703cde-0e07-42c4-b1c6-427c49414e85",
+            "category": "Milk",
+            "id": "1f9ac002-fddd-43ce-b265-ad4957bcb718",
+            "itemId": "1f9ac002-fddd-43ce-b265-ad4957bcb718",
+            "name": "Lactose-Free Whole Milk",
+            "fileName": "https://i.pinimg.com/236x/30/f7/d5/30f7d5243c6a6bbe5a5bab448540d3f4.jpg",
+            "unitPrice": 0.29586206896551726,
+            "price": 4.29,
+            "unit": "14.5 Gallon"
+        },
+        {
+            "categoryId": "d5703cde-0e07-42c4-b1c6-427c49414e85",
+            "category": "Milk",
+            "id": "7bd20aca-c19c-4a02-b0c7-7fdae1b2a1f1",
+            "itemId": "7bd20aca-c19c-4a02-b0c7-7fdae1b2a1f1",
+            "name": "Lactose-Free 2% Milk",
+            "fileName": "https://i.pinimg.com/236x/3d/96/4c/3d964c6134e1086c443f62170adc10d0.jpg",
+            "unitPrice": 1.3966666666666667,
+            "price": 4.19,
+            "unit": "3 Gallon"
+        },
+        {
+            "categoryId": "d5703cde-0e07-42c4-b1c6-427c49414e85",
+            "category": "Milk",
+            "id": "8b02bf97-ca90-4f11-9610-dd149efd086a",
+            "itemId": "8b02bf97-ca90-4f11-9610-dd149efd086a",
+            "name": "Soy Milk",
+            "fileName": "https://i.pinimg.com/236x/3d/96/4c/3d964c6134e1086c443f62170adc10d0.jpg",
+            "unitPrice": 0.14958333333333335,
+            "price": 3.59,
+            "unit": "24 Oz"
+        },
+        {
+            "categoryId": "d5703cde-0e07-42c4-b1c6-427c49414e85",
+            "category": "Milk",
+            "id": "df5fc5be-ab17-42fe-870c-de729da3f9b4",
+            "itemId": "df5fc5be-ab17-42fe-870c-de729da3f9b4",
+            "name": "Chocolate Milk",
+            "fileName": "https://i.pinimg.com/474x/0f/78/2b/0f782bdf01ae29df9f6d3e66c740ded6.jpg",
+            "unitPrice": 2.99,
+            "price": 2.99,
+            "unit": "1 Quart"
+        },
+        {
+            "categoryId": "d5703cde-0e07-42c4-b1c6-427c49414e85",
+            "category": "Milk",
+            "id": "0c35daa6-dbd7-4245-85f1-124b0dc2fab6",
+            "itemId": "0c35daa6-dbd7-4245-85f1-124b0dc2fab6",
+            "name": "Vanilla Almond Milk",
+            "fileName": "https://i.pinimg.com/236x/47/58/87/475887b6110729665c164b0a2d144175.jpg",
+            "unitPrice": 0.04671875,
+            "price": 2.99,
+            "unit": "64 Oz"
+        }
+    ],
+    "Search": [
+        {
+            "categoryId": "7a39cfae-1787-42e8-bb77-8069fc7ddc12",
+            "category": "Laptop",
+            "id": "efd8bca6-1166-46a3-a3c0-2b4018cd4bdb",
+            "itemId": "7839970a-3dbd-45ed-b5cb-34b030f422fa",
+            "name": "HP Newest 255 G10 Laptop for Home or Work, 16GB RAM, 1TB SSD, 15.6\" Full HD, Ryzen 3 7330U (Beat Intel i5-1135G7), Ethernet Port, HDMI, USB-C, SD Reader, Windows 11 Pro, Business and Fun Ready (2024)",
+            "fileName": "image1.png",
+            "unitPrice": 449,
+            "price": 449,
+            "unit": "1 Set"
+        }
+    ],
+    "1_==========>": "======>",
+    "Cart_LocalStorage": [
+        {
+            "itemId": "7839970a-3dbd-45ed-b5cb-34b030f422fa",
+            "quantity": 1,
+            "date": "2024-10-17",
+            "isSynced": false,
+            "isRemoved": false
+        },
+        {
+            "itemId": "38f813d4-ab53-44ba-915a-47cca16502ed",
+            "quantity": 1,
+            "date": "2024-10-18",
+            "isSynced": false,
+            "isRemoved": false
+        },
+        {
+            "itemId": "da38a1cb-4186-4311-bae8-b70e89f4418f",
+            "quantity": 1,
+            "date": "2024-10-19",
+            "isSynced": false,
+            "isRemoved": false
+        }
+    ],
+    "Cart_GetItemByListItemId": [
+        {
+            "categoryId": "7a39cfae-1787-42e8-bb77-8069fc7ddc12",
+            "productId": "efd8bca6-1166-46a3-a3c0-2b4018cd4bdb",
+            "itemId": "da38a1cb-4186-4311-bae8-b70e89f4418f",
+            "itemName": "HP 255 15.6 Inch G10 Business-Ready Notebook PC • 32GB Memory • 2 TB Storage (1TB SDD and 1TB External Drive)• AMD Ryzen 3 7330U • Windows 11 Pro • Full HD Display • AMD Radeon Graphics (2024)",
+            "fileName": "https://i.pinimg.com/236x/dd/49/50/dd49504e20568037a91cd62a04f2bae0.jpg"
+        },
+        {
+            "categoryId": "7a39cfae-1787-42e8-bb77-8069fc7ddc12",
+            "productId": "efd8bca6-1166-46a3-a3c0-2b4018cd4bdb",
+            "itemId": "38f813d4-ab53-44ba-915a-47cca16502ed",
+            "itemName": "HP 255 15.6 Inch G10 Business-Ready Notebook PC • 16 GB Memory • 640GB Storage(128GB SSD with 512GB Portable Drive)• AMD Ryzen 3 7730U • Windows 11 Pro • Full HD Display • AMD Radeon Graphics (2024)",
+            "fileName": "https://i.pinimg.com/236x/4d/45/24/4d452416912167b5020bbd38de7d0fa0.jpg"
+        },
+        {
+            "categoryId": "7a39cfae-1787-42e8-bb77-8069fc7ddc12",
+            "productId": "efd8bca6-1166-46a3-a3c0-2b4018cd4bdb",
+            "itemId": "7839970a-3dbd-45ed-b5cb-34b030f422fa",
+            "itemName": "HP 255 15.6 Inch G10 Business-Ready Notebook PC • 16 GB Memory • 640GB Storage(128GB SSD with 512GB Portable Drive)• AMD Ryzen 3 7730U • Windows 11 Pro • Full HD Display • AMD Radeon Graphics (2024)",
+            "fileName": "https://i.pinimg.com/236x/d5/4c/9c/d54c9c880e819431e0bd1cd97d2ef017.jpg"
+        }
+    ],
+    "Cart_GetItemPriceByListItemId": [
+        {
+            "itemId": "38f813d4-ab53-44ba-915a-47cca16502ed",
+            "unitPrice": 439,
+            "price": 439,
+            "unit": "1 Set",
+            "originalPrice": 449
+        },
+        {
+            "itemId": "da38a1cb-4186-4311-bae8-b70e89f4418f",
+            "unitPrice": 450,
+            "price": 450,
+            "unit": "1 Set",
+            "originalPrice": 470
+        },
+        {
+            "itemId": "7839970a-3dbd-45ed-b5cb-34b030f422fa",
+            "unitPrice": 450,
+            "price": 450,
+            "unit": "1 Set",
+            "originalPrice": 470
+        }
+    ],
+    "Cart_SaveLaterLocalStorage": [
+        {
+            "isSynced": false,
+            "itemId": "38f813d4-ab53-44ba-915a-47cca16502ed",
+            "quantity": 1,
+            "date": "2024-10-17",
+            "isRemoved": false
+        },
+        {
+            "isSynced": false,
+            "itemId": "3c2e310f-8d35-4f14-aadc-4d32dd7a3c61",
+            "quantity": 1,
+            "date": "2024-10-19",
+            "isRemoved": false
+        }
+    ],
+    "Cart_GetSaveLaterItemByListItemId": [
+        {
+            "categoryId": "7a39cfae-1787-42e8-bb77-8069fc7ddc12",
+            "productId": "efd8bca6-1166-46a3-a3c0-2b4018cd4bdb",
+            "itemId": "3c2e310f-8d35-4f14-aadc-4d32dd7a3c61",
+            "itemName": "HP 255 15.6 Inch G10 Business-Ready Notebook PC • 32GB Memory • 2 TB Storage (1TB SDD and 1TB External Drive)• AMD Ryzen 3 7330U • Windows 11 Pro • Full HD Display • AMD Radeon Graphics (2024)",
+            "fileName": "https://i.pinimg.com/236x/ca/55/d9/ca55d9686ae94bda7b84b33d76a13f70.jpg"
+        },
+        {
+            "categoryId": "7a39cfae-1787-42e8-bb77-8069fc7ddc12",
+            "productId": "efd8bca6-1166-46a3-a3c0-2b4018cd4bdb",
+            "itemId": "38f813d4-ab53-44ba-915a-47cca16502ed",
+            "itemName": "HP 255 15.6 Inch G10 Business-Ready Notebook PC • 16 GB Memory • 640GB Storage(128GB SSD with 512GB Portable Drive)• AMD Ryzen 3 7730U • Windows 11 Pro • Full HD Display • AMD Radeon Graphics (2024)",
+            "fileName": "https://i.pinimg.com/236x/b2/c4/9c/b2c49c3c96876963410c99d352a2ebf6.jpg"
+        }
+    ],
+    "Cart_GetSaveLaterItemPriceByListItemId": [
+        {
+            "itemId": "38f813d4-ab53-44ba-915a-47cca16502ed",
+            "unitPrice": 439,
+            "price": 439,
+            "unit": "1 Set",
+            "originalPrice": 449
+        },
+        {
+            "itemId": "3c2e310f-8d35-4f14-aadc-4d32dd7a3c61",
+            "unitPrice": 450,
+            "price": 450,
+            "unit": "1 Set",
+            "originalPrice": 470
+        }
+    ],
+    "charging_fee": [
+        {
+            "name": "Service Fee",
+            "minimumOrder": 50,
+            "feeCharge": 6.99
+        }
+    ],
+    "cart": {
+        "ViewCart": [
+            {
+                "itemId": "38f813d4-ab53-44ba-915a-47cca16502ed",
+                "itemName": "HP 255 15.6 Inch G10 Business-Ready Notebook PC • 16 GB Memory • 640GB Storage(128GB SSD with 512GB Portable Drive)• AMD Ryzen 3 7730U • Windows 11 Pro • Full HD Display • AMD Radeon Graphics (2024)",
+                "imageUrl": "assets/images/733063b5-2051-4447-838b-a87c33b8614f/7a39cfae-1787-42e8-bb77-8069fc7ddc12/efd8bca6-1166-46a3-a3c0-2b4018cd4bdb/38f813d4-ab53-44ba-915a-47cca16502ed/image1.png",
+                "unitPrice": 580,
+                "price": 580,
+                "totalPrice": 2320,
+                "unit": "1 Set",
+                "originalPrice": 580,
+                "totalOriginalPrice": 2320,
+                "quantity": 4
+            },
+            {
+                "itemId": "da38a1cb-4186-4311-bae8-b70e89f4418f",
+                "itemName": "HP 255 15.6 Inch G10 Business-Ready Notebook PC • 16GB Memory • 2 TB Storage (1TB SDD and 1TB External Drive)• AMD Ryzen 3 7330U • Windows 11 Pro • Full HD Display • AMD Radeon Graphics (2024)",
+                "imageUrl": "assets/images/733063b5-2051-4447-838b-a87c33b8614f/7a39cfae-1787-42e8-bb77-8069fc7ddc12/efd8bca6-1166-46a3-a3c0-2b4018cd4bdb/da38a1cb-4186-4311-bae8-b70e89f4418f/image1.png",
+                "unitPrice": 580,
+                "price": 580,
+                "totalPrice": 2320,
+                "unit": "1 Set",
+                "originalPrice": 580,
+                "totalOriginalPrice": 2320,
+                "quantity": 4
+            },
+            {
+                "itemId": "7839970a-3dbd-45ed-b5cb-34b030f422fa",
+                "itemName": "HP Newest 255 G10 Laptop for Home or Work, 16GB RAM, 1TB SSD, 15.6\" Full HD, Ryzen 3 7330U (Beat Intel i5-1135G7), Ethernet Port, HDMI, USB-C, SD Reader, Windows 11 Pro, Business and Fun Ready (2024)",
+                "imageUrl": "assets/images/733063b5-2051-4447-838b-a87c33b8614f/7a39cfae-1787-42e8-bb77-8069fc7ddc12/efd8bca6-1166-46a3-a3c0-2b4018cd4bdb/7839970a-3dbd-45ed-b5cb-34b030f422fa/image1.png",
+                "unitPrice": 580,
+                "price": 580,
+                "totalPrice": 2320,
+                "unit": "1 Set",
+                "originalPrice": 580,
+                "totalOriginalPrice": 2320,
+                "quantity": 4
+            }
+        ],
+        "ViewSaveLaterUse": [
+            {
+                "itemId": "fce0ac0c-78b7-45b0-bd47-f0dc4c59422f",
+                "itemName": "HP 255 15.6 Inch G10 Business-Ready Notebook PC • 64GB Memory • 4 TB Storage (2TB SDD and 2TB External Drive)• AMD Ryzen 3 7330U • Windows 11 Pro • Full HD Display • AMD Radeon Graphics(2024)",
+                "imageUrl": "assets/images/733063b5-2051-4447-838b-a87c33b8614f/7a39cfae-1787-42e8-bb77-8069fc7ddc12/efd8bca6-1166-46a3-a3c0-2b4018cd4bdb/fce0ac0c-78b7-45b0-bd47-f0dc4c59422f/image1.png",
+                "unitPrice": 470,
+                "price": 470,
+                "totalPrice": 470,
+                "unit": "1 Set",
+                "quantity": 1
+            },
+            {
+                "itemId": "da38a1cb-4186-4311-bae8-b70e89f4418f",
+                "itemName": "HP 255 15.6 Inch G10 Business-Ready Notebook PC • 16GB Memory • 2 TB Storage (1TB SDD and 1TB External Drive)• AMD Ryzen 3 7330U • Windows 11 Pro • Full HD Display • AMD Radeon Graphics (2024)",
+                "imageUrl": "assets/images/733063b5-2051-4447-838b-a87c33b8614f/7a39cfae-1787-42e8-bb77-8069fc7ddc12/efd8bca6-1166-46a3-a3c0-2b4018cd4bdb/da38a1cb-4186-4311-bae8-b70e89f4418f/image1.png",
+                "unitPrice": 490,
+                "price": 490,
+                "totalPrice": 490,
+                "unit": "1 Set",
+                "quantity": 1
+            },
+            {
+                "itemId": "7839970a-3dbd-45ed-b5cb-34b030f422fa",
+                "itemName": "HP Newest 255 G10 Laptop for Home or Work, 16GB RAM, 1TB SSD, 15.6\" Full HD, Ryzen 3 7330U (Beat Intel i5-1135G7), Ethernet Port, HDMI, USB-C, SD Reader, Windows 11 Pro, Business and Fun Ready (2024)",
+                "imageUrl": "assets/images/733063b5-2051-4447-838b-a87c33b8614f/7a39cfae-1787-42e8-bb77-8069fc7ddc12/efd8bca6-1166-46a3-a3c0-2b4018cd4bdb/7839970a-3dbd-45ed-b5cb-34b030f422fa/image1.png",
+                "unitPrice": 490,
+                "price": 490,
+                "totalPrice": 490,
+                "unit": "1 Set",
+                "quantity": 1
+            }
+        ]
+    },
+    "2_==========>": "======>",
+    "detail_category": {
+        "categoryId": "7a39cfae-1787-42e8-bb77-8069fc7ddc12",
+        "store": "Walmart 3",
+        "category": "Laptop"
+    },
+    "detail_product": {
+        "productId": "efd8bca6-1166-46a3-a3c0-2b4018cd4bdb",
+        "productName": "HP Newest 255 G10 Laptop for Home or Work",
+        "components": [
+            {
+                "name": "Capacity",
+                "componentValues": [
+                    {
+                        "componentValueId": "353e2542-64b2-4ee6-b5cf-b72ff2fd7990",
+                        "value": "16GB RAM | 1TB Storage"
+                    },
+                    {
+                        "componentValueId": "05669c90-d6b7-4e4e-95c5-5107d49d48b7",
+                        "value": "16GB RAM | 2TB Storage"
+                    },
+                    {
+                        "componentValueId": "4386d9f3-0ba5-4503-812e-6d0c872f7de2",
+                        "value": "16GB | 640GB"
+                    },
+                    {
+                        "componentValueId": "ef7fc522-8a79-47c0-96ab-b785fa616a82",
+                        "value": " 32GB RAM | 2TB Storage"
+                    },
+                    {
+                        "componentValueId": "6ec2cb92-1830-4f85-b2af-3970fe54f1ab",
+                        "value": "64GB RAM | 4TB Storage"
+                    }
+                ]
+            },
+            {
+                "name": "Color",
+                "componentValues": [
+                    {
+                        "componentValueId": "37ebb700-5ed4-4a4c-bd7a-74648273f6d9",
+                        "value": "Dark Ash Silver"
+                    },
+                    {
+                        "componentValueId": "5216bbb2-7515-4a3c-9569-eba0aa0b272d",
+                        "value": " Rose Gold"
+                    }
+                ]
+            }
+        ],
+        "items": [
+            {
+                "itemId": "da38a1cb-4186-4311-bae8-b70e89f4418f",
+                "isDefault": false,
+                "componentValues": [
+                    "ef7fc522-8a79-47c0-96ab-b785fa616a82",
+                    "37ebb700-5ed4-4a4c-bd7a-74648273f6d9"
+                ]
+            },
+            {
+                "itemId": "38f813d4-ab53-44ba-915a-47cca16502ed",
+                "isDefault": false,
+                "componentValues": [
+                    "05669c90-d6b7-4e4e-95c5-5107d49d48b7",
+                    "37ebb700-5ed4-4a4c-bd7a-74648273f6d9"
+                ]
+            },
+            {
+                "itemId": "3c2e310f-8d35-4f14-aadc-4d32dd7a3c61",
+                "isDefault": false,
+                "componentValues": [
+                    "4386d9f3-0ba5-4503-812e-6d0c872f7de2",
+                    "37ebb700-5ed4-4a4c-bd7a-74648273f6d9"
+                ]
+            },
+            {
+                "itemId": "fce0ac0c-78b7-45b0-bd47-f0dc4c59422f",
+                "isDefault": false,
+                "componentValues": [
+                    "6ec2cb92-1830-4f85-b2af-3970fe54f1ab",
+                    "37ebb700-5ed4-4a4c-bd7a-74648273f6d9"
+                ]
+            },
+            {
+                "itemId": "d4e13826-fad2-4bf2-85c3-c19e2b45505d",
+                "isDefault": false,
+                "componentValues": [
+                    "05669c90-d6b7-4e4e-95c5-5107d49d48b7",
+                    "37ebb700-5ed4-4a4c-bd7a-74648273f6d9"
+                ]
+            },
+            {
+                "itemId": "7839970a-3dbd-45ed-b5cb-34b030f422fa",
+                "isDefault": true,
+                "componentValues": [
+                    "353e2542-64b2-4ee6-b5cf-b72ff2fd7990",
+                    "5216bbb2-7515-4a3c-9569-eba0aa0b272d"
+                ]
+            }
+        ]
+    },
+    "detail_item_price": {
+        "price": 449
+    },
+    "detail_item_qty": {
+        "quantity": 45
+    },
+    "detail_img": [
+        {
+            "imageTypeId": 1,
+            "fileName": "https://i.pinimg.com/474x/83/12/71/831271edc70f92b29b2f1dddf5f402a3.jpg",
+            "isDefault": false
+        },
+        {
+            "imageTypeId": 1,
+            "fileName": "https://i.pinimg.com/474x/27/06/73/27067304e024e85a5fc7c30214297626.jpg",
+            "isDefault": false
+        },
+        {
+            "imageTypeId": 1,
+            "fileName": "https://i.pinimg.com/474x/47/49/cf/4749cfbca884a542edc9e6c3a8170297.jpg",
+            "isDefault": false
+        },
+        {
+            "imageTypeId": 1,
+            "fileName": "https://i.pinimg.com/474x/8f/11/50/8f11505c3700e1c16075710247288020.jpg",
+            "isDefault": false
+        },
+        {
+            "imageTypeId": 1,
+            "fileName": "https://i.pinimg.com/474x/45/56/80/4556808a36dad7a2e8d77d752457b7c0.jpg",
+            "isDefault": true
+        }
+    ],
+    "detail_item_field": [
+        {
+            "fieldName": "Brand",
+            "fieldValue": "HP"
+        },
+        {
+            "fieldName": "Model Name",
+            "fieldValue": "HP 255"
+        },
+        {
+            "fieldName": "Screen Size",
+            "fieldValue": "15.6"
+        },
+        {
+            "fieldName": "Color",
+            "fieldValue": "Dark Ash Silver"
+        },
+        {
+            "fieldName": "Hard Disk Size",
+            "fieldValue": "2 TB"
+        },
+        {
+            "fieldName": "CPU Model",
+            "fieldValue": "Ryzen 3"
+        },
+        {
+            "fieldName": "Ram Memory Installed Size",
+            "fieldValue": "16 GB"
+        },
+        {
+            "fieldName": "Operating System",
+            "fieldValue": "Windows 11 Pro"
+        },
+        {
+            "fieldName": "Special Feature",
+            "fieldValue": "HD Audio, WiFi 6 RTL8821CE-M 802.11a/b/g/n/ac (1x1) Wi-Fi® and Bluetooth® 4.2 wireless card, Numeric Keypad"
+        },
+        {
+            "fieldName": "Graphics Card Description",
+            "fieldValue": "Integrated"
+        }
+    ],
+    "3_==========>": "======>",
+    "view_more": [
+        {
+            "categoryId": "d5703cde-0e07-42c4-b1c6-427c49414e85",
+            "category": "Milk",
+            "id": "0c35daa6-dbd7-4245-85f1-124b0dc2fab6",
+            "itemId": "132014c6-eeff-448f-a03f-f1567f99e555",
+            "name": "milkadamia Macadamia Milk - Unsweetened - 32 Fl Oz (Pack of 6) - Lactose Free Milk, Vegan Shelf Stable Milk, Plant Based Non Dairy Milk, Organic Dairy Free Macadamia Nut Milk",
+            "fileName": "https://m.media-amazon.com/images/I/517dGQ-2D5L.UF736,736.jpg",
+            "unitPrice": 0.66,
+            "price": 4.99,
+            "unit": "12 Oz"
+        },
+        {
+            "categoryId": "d5703cde-0e07-42c4-b1c6-427c49414e85",
+            "category": "Milk",
+            "id": "0c35daa6-dbd7-4245-85f1-124b0dc2fab6",
+            "itemId": "132014c6-eeff-448f-a03f-f1567f99e555",
+            "name": "Kiki Milk Plant Based Milk - Organic Original Milk - On-The-Go Calcium & Magnesium Source - Gl",
+            "fileName": "https://m.media-amazon.com/images/I/41BCzRxIosL.UF736,736.jpg",
+            "unitPrice": 1.66,
+            "price": 8.99,
+            "unit": "32 Oz"
+        },
+        {
+            "categoryId": "d5703cde-0e07-42c4-b1c6-427c49414e85",
+            "category": "Milk",
+            "id": "0c35daa6-dbd7-4245-85f1-124b0dc2fab6",
+            "itemId": "132014c6-eeff-448f-a03f-f1567f99e555",
+            "name": "Ripple Non-Dairy Milk, Original | Vegan Milk With 8g Pea Protein| Shelf Stable Single Serve Cartons | On-The-Go | Non-GMO, Plant Based, Gluten Free | 8 Fl Oz (Pack of 12)",
+            "fileName": "https://m.media-amazon.com/images/I/41gZ4m+G87L.UF736,736.jpg",
+            "unitPrice": 1.66,
+            "price": 10.99,
+            "unit": "21 Oz"
+        },
+        {
+            "categoryId": "d5703cde-0e07-42c4-b1c6-427c49414e85",
+            "category": "Milk",
+            "id": "0c35daa6-dbd7-4245-85f1-124b0dc2fab6",
+            "itemId": "132014c6-eeff-448f-a03f-f1567f99e555",
+            "name": "A deliciously crafted experience designed for all your senses",
+            "fileName": "https://i.pinimg.com/236x/93/99/e6/9399e62e67314e7ecea98971c873175e.jpg",
+            "unitPrice": 0.66,
+            "price": 7.99,
+            "unit": "18 Oz"
+        },
+        {
+            "categoryId": "d5703cde-0e07-42c4-b1c6-427c49414e85",
+            "category": "Milk",
+            "id": "0c35daa6-dbd7-4245-85f1-124b0dc2fab6",
+            "itemId": "132014c6-eeff-448f-a03f-f1567f99e555",
+            "name": "Valley Food Storage Whole Milk Powder | Contains Vitamin A & Vitamin D | Powdered Milk Long Term Storage, 25 Year Shelf Life | Camping Food, Backpacking Meals, Prepper Supplies (Whole Milk 10 Bags + Bucket",
+            "fileName": "https://m.media-amazon.com/images/I/41SU-69IIIL.UF736,736.jpg",
+            "unitPrice": 0.66,
+            "price": 4.99,
+            "unit": "12 Oz"
+        },
+        {
+            "categoryId": "d5703cde-0e07-42c4-b1c6-427c49414e85",
+            "category": "Milk",
+            "id": "0c35daa6-dbd7-4245-85f1-124b0dc2fab6",
+            "itemId": "132014c6-eeff-448f-a03f-f1567f99e555",
+            "name": "Ripple Non-Dairy Milks | Vegan Milk with 8g Pea Protein | Shelf Stable | Non-GMO. Plant Based, Gluten Free | 32 Fl Oz (Pack of 6) (32 Fl Oz (Pack of 6), Kids)",
+            "fileName": "https://m.media-amazon.com/images/I/51f4nEzvdOL.UF736,736.jpg",
+            "unitPrice": 1.66,
+            "price": 7.99,
+            "unit": "14 Oz"
+        },
+        {
+            "categoryId": "d5703cde-0e07-42c4-b1c6-427c49414e85",
+            "category": "Milk",
+            "id": "0c35daa6-dbd7-4245-85f1-124b0dc2fab6",
+            "itemId": "132014c6-eeff-448f-a03f-f1567f99e555",
+            "name": "Almond Milk",
+            "fileName": "https://m.media-amazon.com/images/I/51CO79c8s3L.UF736,736.jpg",
+            "unitPrice": 0.66,
+            "price": 4.99,
+            "unit": "12 Oz"
+        },
+        {
+            "categoryId": "d5703cde-0e07-42c4-b1c6-427c49414e85",
+            "category": "Milk",
+            "id": "0c35daa6-dbd7-4245-85f1-124b0dc2fab6",
+            "itemId": "132014c6-eeff-448f-a03f-f1567f99e555",
+            "name": "Mooala Organic Almond Lactose Free Milk 33.8 fl oz (Pack of 6) - Shelf-Stable, Non- Dairy, Gluten-Free, Vegan, Plant-Based Beverage",
+            "fileName": "https://m.media-amazon.com/images/I/41sFaI+lxKL.UF736,736.jpg",
+            "unitPrice": 2.66,
+            "price": 23.99,
+            "unit": "22 Oz"
+        },
+        {
+            "categoryId": "d5703cde-0e07-42c4-b1c6-427c49414e85",
+            "category": "Milk",
+            "id": "0c35daa6-dbd7-4245-85f1-124b0dc2fab6",
+            "itemId": "132014c6-eeff-448f-a03f-f1567f99e555",
+            "name": "Binggrae Banana Flavored Milk [Korea's No 1 Classic & Original Banana Milk] - Sweet, Smooth & Creamy Texture (Pack of 6)",
+            "fileName": "https://m.media-amazon.com/images/I/51kPFPCH7WL.UF736,736.jpg",
+            "unitPrice": 1.66,
+            "price": 14.99,
+            "unit": "16 Oz"
+        },
+        {
+            "categoryId": "d5703cde-0e07-42c4-b1c6-427c49414e85",
+            "category": "Milk",
+            "id": "0c35daa6-dbd7-4245-85f1-124b0dc2fab6",
+            "itemId": "132014c6-eeff-448f-a03f-f1567f99e555",
+            "name": "Prairie Farms - Shelf Stable Milk 2% Percent, Reduced Fat, Boxed UHT Ultra Pasteurized Milk, Vitamin D White Milk - Preservative and Hormone Free, Gluten Free, Kosher, Made in USA (1 Quart - 4 Pack)",
+            "fileName": "https://m.media-amazon.com/images/I/51CO79c8s3L.UF736,736.jpg",
+            "unitPrice": 2.66,
+            "price": 24.99,
+            "unit": "19 Oz"
+        }
+    ],
+    "search_page": [
+        {
+            "categoryId": "d5703cde-0e07-42c4-b1c6-427c49414e85",
+            "category": "Milk",
+            "id": "0c35daa6-dbd7-4245-85f1-124b0dc2fab6",
+            "itemId": "132014c6-eeff-448f-a03f-f1567f99e555",
+            "name": "milkadamia Macadamia Milk - Unsweetened - 32 Fl Oz (Pack of 6) - Lactose Free Milk, Vegan Shelf Stable Milk, Plant Based Non Dairy Milk, Organic Dairy Free Macadamia Nut Milk",
+            "fileName": "https://m.media-amazon.com/images/I/517dGQ-2D5L.UF736,736.jpg",
+            "unitPrice": 0.66,
+            "price": 4.99,
+            "unit": "12 Oz"
+        },
+        {
+            "categoryId": "d5703cde-0e07-42c4-b1c6-427c49414e85",
+            "category": "Milk",
+            "id": "0c35daa6-dbd7-4245-85f1-124b0dc2fab6",
+            "itemId": "132014c6-eeff-448f-a03f-f1567f99e555",
+            "name": "Kiki Milk Plant Based Milk - Organic Original Milk - On-The-Go Calcium & Magnesium Source - Gl",
+            "fileName": "https://m.media-amazon.com/images/I/41BCzRxIosL.UF736,736.jpg",
+            "unitPrice": 1.66,
+            "price": 8.99,
+            "unit": "32 Oz"
+        },
+        {
+            "categoryId": "d5703cde-0e07-42c4-b1c6-427c49414e85",
+            "category": "Milk",
+            "id": "0c35daa6-dbd7-4245-85f1-124b0dc2fab6",
+            "itemId": "132014c6-eeff-448f-a03f-f1567f99e555",
+            "name": "Ripple Non-Dairy Milk, Original | Vegan Milk With 8g Pea Protein| Shelf Stable Single Serve Cartons | On-The-Go | Non-GMO, Plant Based, Gluten Free | 8 Fl Oz (Pack of 12)",
+            "fileName": "https://m.media-amazon.com/images/I/41gZ4m+G87L.UF736,736.jpg",
+            "unitPrice": 1.66,
+            "price": 10.99,
+            "unit": "21 Oz"
+        },
+        {
+            "categoryId": "d5703cde-0e07-42c4-b1c6-427c49414e85",
+            "category": "Milk",
+            "id": "0c35daa6-dbd7-4245-85f1-124b0dc2fab6",
+            "itemId": "132014c6-eeff-448f-a03f-f1567f99e555",
+            "name": "A deliciously crafted experience designed for all your senses",
+            "fileName": "https://i.pinimg.com/236x/93/99/e6/9399e62e67314e7ecea98971c873175e.jpg",
+            "unitPrice": 0.66,
+            "price": 7.99,
+            "unit": "18 Oz"
+        },
+        {
+            "categoryId": "d5703cde-0e07-42c4-b1c6-427c49414e85",
+            "category": "Milk",
+            "id": "0c35daa6-dbd7-4245-85f1-124b0dc2fab6",
+            "itemId": "132014c6-eeff-448f-a03f-f1567f99e555",
+            "name": "Valley Food Storage Whole Milk Powder | Contains Vitamin A & Vitamin D | Powdered Milk Long Term Storage, 25 Year Shelf Life | Camping Food, Backpacking Meals, Prepper Supplies (Whole Milk 10 Bags + Bucket",
+            "fileName": "https://m.media-amazon.com/images/I/41SU-69IIIL.UF736,736.jpg",
+            "unitPrice": 0.66,
+            "price": 4.99,
+            "unit": "12 Oz"
+        },
+        {
+            "categoryId": "d5703cde-0e07-42c4-b1c6-427c49414e85",
+            "category": "Milk",
+            "id": "0c35daa6-dbd7-4245-85f1-124b0dc2fab6",
+            "itemId": "132014c6-eeff-448f-a03f-f1567f99e555",
+            "name": "Ripple Non-Dairy Milks | Vegan Milk with 8g Pea Protein | Shelf Stable | Non-GMO. Plant Based, Gluten Free | 32 Fl Oz (Pack of 6) (32 Fl Oz (Pack of 6), Kids)",
+            "fileName": "https://m.media-amazon.com/images/I/51f4nEzvdOL.UF736,736.jpg",
+            "unitPrice": 1.66,
+            "price": 7.99,
+            "unit": "14 Oz"
+        },
+        {
+            "categoryId": "d5703cde-0e07-42c4-b1c6-427c49414e85",
+            "category": "Milk",
+            "id": "0c35daa6-dbd7-4245-85f1-124b0dc2fab6",
+            "itemId": "132014c6-eeff-448f-a03f-f1567f99e555",
+            "name": "Almond Milk",
+            "fileName": "https://m.media-amazon.com/images/I/51CO79c8s3L.UF736,736.jpg",
+            "unitPrice": 0.66,
+            "price": 4.99,
+            "unit": "12 Oz"
+        },
+        {
+            "categoryId": "d5703cde-0e07-42c4-b1c6-427c49414e85",
+            "category": "Milk",
+            "id": "0c35daa6-dbd7-4245-85f1-124b0dc2fab6",
+            "itemId": "132014c6-eeff-448f-a03f-f1567f99e555",
+            "name": "Mooala Organic Almond Lactose Free Milk 33.8 fl oz (Pack of 6) - Shelf-Stable, Non- Dairy, Gluten-Free, Vegan, Plant-Based Beverage",
+            "fileName": "https://m.media-amazon.com/images/I/41sFaI+lxKL.UF736,736.jpg",
+            "unitPrice": 2.66,
+            "price": 23.99,
+            "unit": "22 Oz"
+        },
+        {
+            "categoryId": "d5703cde-0e07-42c4-b1c6-427c49414e85",
+            "category": "Milk",
+            "id": "0c35daa6-dbd7-4245-85f1-124b0dc2fab6",
+            "itemId": "132014c6-eeff-448f-a03f-f1567f99e555",
+            "name": "Binggrae Banana Flavored Milk [Korea's No 1 Classic & Original Banana Milk] - Sweet, Smooth & Creamy Texture (Pack of 6)",
+            "fileName": "https://m.media-amazon.com/images/I/51kPFPCH7WL.UF736,736.jpg",
+            "unitPrice": 1.66,
+            "price": 14.99,
+            "unit": "16 Oz"
+        },
+        {
+            "categoryId": "d5703cde-0e07-42c4-b1c6-427c49414e85",
+            "category": "Milk",
+            "id": "0c35daa6-dbd7-4245-85f1-124b0dc2fab6",
+            "itemId": "132014c6-eeff-448f-a03f-f1567f99e555",
+            "name": "Prairie Farms - Shelf Stable Milk 2% Percent, Reduced Fat, Boxed UHT Ultra Pasteurized Milk, Vitamin D White Milk - Preservative and Hormone Free, Gluten Free, Kosher, Made in USA (1 Quart - 4 Pack)",
+            "fileName": "https://m.media-amazon.com/images/I/51CO79c8s3L.UF736,736.jpg",
+            "unitPrice": 2.66,
+            "price": 24.99,
+            "unit": "19 Oz"
+        }
+    ],
+    "order_story": [
+        {
+            "itemId": "38f813d4-ab53-44ba-915a-47cca16502ed",
+            "itemName": "HP 255 15.6 Inch G10 Business-Ready Notebook PC • 16 GB Memory • 640GB Storage(128GB SSD with 512GB Portable Drive)• AMD Ryzen 3 7730U • Windows 11 Pro • Full HD Display • AMD Radeon Graphics (2024)",
+            "imageUrl": "https://i.pinimg.com/236x/dd/49/50/dd49504e20568037a91cd62a04f2bae0.jpg",
+            "unitPrice": 580,
+            "price": 580,
+            "totalPrice": 2320,
+            "unit": "1 Set",
+            "originalPrice": 580,
+            "totalOriginalPrice": 2320,
+            "quantity": 4
+        },
+        {
+            "itemId": "da38a1cb-4186-4311-bae8-b70e89f4418f",
+            "itemName": "HP 255 15.6 Inch G10 Business-Ready Notebook PC • 16GB Memory • 2 TB Storage (1TB SDD and 1TB External Drive)• AMD Ryzen 3 7330U • Windows 11 Pro • Full HD Display • AMD Radeon Graphics (2024)",
+            "imageUrl": "https://i.pinimg.com/236x/4d/45/24/4d452416912167b5020bbd38de7d0fa0.jpg",
+            "unitPrice": 580,
+            "price": 580,
+            "totalPrice": 2320,
+            "unit": "1 Set",
+            "originalPrice": 580,
+            "totalOriginalPrice": 2320,
+            "quantity": 4
+        },
+        {
+            "itemId": "7839970a-3dbd-45ed-b5cb-34b030f422fa",
+            "itemName": "HP Newest 255 G10 Laptop for Home or Work, 16GB RAM, 1TB SSD, 15.6\" Full HD, Ryzen 3 7330U (Beat Intel i5-1135G7), Ethernet Port, HDMI, USB-C, SD Reader, Windows 11 Pro, Business and Fun Ready (2024)",
+            "imageUrl": "https://i.pinimg.com/236x/d5/4c/9c/d54c9c880e819431e0bd1cd97d2ef017.jpg",
+            "unitPrice": 580,
+            "price": 580,
+            "totalPrice": 2320,
+            "unit": "1 Set",
+            "originalPrice": 580,
+            "totalOriginalPrice": 2320,
+            "quantity": 4
+        },
+        {
+            "itemId": "38f813d4-ab53-44ba-915a-47cca16502ed",
+            "itemName": "HP 255 15.6 Inch G10 Business-Ready Notebook PC • 16 GB Memory • 640GB Storage(128GB SSD with 512GB Portable Drive)• AMD Ryzen 3 7730U • Windows 11 Pro • Full HD Display • AMD Radeon Graphics (2024)",
+            "imageUrl": "https://i.pinimg.com/236x/dd/49/50/dd49504e20568037a91cd62a04f2bae0.jpg",
+            "unitPrice": 580,
+            "price": 580,
+            "totalPrice": 2320,
+            "unit": "1 Set",
+            "originalPrice": 580,
+            "totalOriginalPrice": 2320,
+            "quantity": 4
+        },
+        {
+            "itemId": "da38a1cb-4186-4311-bae8-b70e89f4418f",
+            "itemName": "HP 255 15.6 Inch G10 Business-Ready Notebook PC • 16GB Memory • 2 TB Storage (1TB SDD and 1TB External Drive)• AMD Ryzen 3 7330U • Windows 11 Pro • Full HD Display • AMD Radeon Graphics (2024)",
+            "imageUrl": "https://i.pinimg.com/236x/4d/45/24/4d452416912167b5020bbd38de7d0fa0.jpg",
+            "unitPrice": 580,
+            "price": 580,
+            "totalPrice": 2320,
+            "unit": "1 Set",
+            "originalPrice": 580,
+            "totalOriginalPrice": 2320,
+            "quantity": 4
+        },
+        {
+            "itemId": "7839970a-3dbd-45ed-b5cb-34b030f422fa",
+            "itemName": "HP Newest 255 G10 Laptop for Home or Work, 16GB RAM, 1TB SSD, 15.6\" Full HD, Ryzen 3 7330U (Beat Intel i5-1135G7), Ethernet Port, HDMI, USB-C, SD Reader, Windows 11 Pro, Business and Fun Ready (2024)",
+            "imageUrl": "https://i.pinimg.com/236x/d5/4c/9c/d54c9c880e819431e0bd1cd97d2ef017.jpg",
+            "unitPrice": 580,
+            "price": 580,
+            "totalPrice": 2320,
+            "unit": "1 Set",
+            "originalPrice": 580,
+            "totalOriginalPrice": 2320,
+            "quantity": 4
+        }
+    ],
+    "suggestion": [
+        {
+            "imgUrl": "https://i.pinimg.com/236x/14/fb/b2/14fbb21e86a475c6a6d096b5a0a60dd6.jpg",
+            "name": "Canned"
+        },
+        {
+            "imgUrl": "https://i.pinimg.com/236x/02/3b/3e/023b3e3ca534ae94a88cfc898b31e0cf.jpg",
+            "name": "Groceries"
+        },
+        {
+            "imgUrl": "https://i.pinimg.com/enabled_hi/236x/12/3e/f6/123ef687e4fa6f6c9fe9c22df36045fc.jpg",
+            "name": "Laptop"
+        },
+        {
+            "imgUrl": "https://i.pinimg.com/236x/df/c4/a7/dfc4a73b95c63add9b696dbb31a40009.jpg",
+            "name": "Milk"
+        }
+    ]
+}
